@@ -1,2 +1,2 @@
-for i in range "Kaewkla":
+for i in "Kaewkla":
     print(i)
